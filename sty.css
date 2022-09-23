@@ -1,0 +1,75 @@
+
+body{
+
+  background-image:url(start-up-funding-crowdfunding-investment-venture-capital-entrepreneurship-internet-business-technology-concept-100325363.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+  
+ 
+
+}
+h1{
+    color:darkred;
+    text-align: center;
+    border:5px solid red;
+    /*text-shadow: 2px 2px 5px white;*/
+    background:white;
+}
+.container{
+    
+    display: grid;
+    grid-template-columns: 8em 200px 40%;
+  
+    grid-gap: 10px;
+}
+.maindiv{
+ background-color:skyblue;
+height: 200px;
+    font-family: sans-serif;
+    padding: 15px;
+       border: 9px;
+    border-color: antiquewhite;
+  
+    
+    
+}
+.main2
+{
+   
+    background-color:skyblue;
+ height: 200px;
+    font-family: sans-serif;
+    padding: 15px; 
+    border: 9px;
+    border-color: antiquewhite;
+    
+}
+.purp{
+    
+    width:400px;
+    height:400px; 
+     background-color:skyblue;
+
+}
+.last{
+    
+    width:300px;
+    height:120px;
+     background-color:skyblue;
+
+}
+h2{
+    color:darkred;
+    text-align: center;
+    border:5px solid red;
+    /*text-shadow: 2px 2px 5px white;*/
+    background:white ;
+}
+h3{
+    color:darkred;
+    text-align: center;
+    border:5px solid red;
+    /*text-shadow: 2px 2px 5px white;*/
+    background:white ;
+}
+
